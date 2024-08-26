@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\bin\Debug\EmployeeKayıt.exe.config
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\bin\Debug\EmployeeKayıt.exe
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\bin\Debug\EmployeeKayıt.pdb
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.Properties.Resources.resources
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.exe
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.pdb
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.FrmStatistic.resources
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.FrmMain.resources
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.FrmChart.resources
+C:\Users\burak\Desktop\C# Çalışma\EmployeeKayıt\EmployeeKayıt\obj\Debug\EmployeeKayıt.FrmLogin.resources
